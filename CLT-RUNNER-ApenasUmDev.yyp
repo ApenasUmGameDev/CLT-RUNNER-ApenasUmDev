@@ -25,9 +25,11 @@
   "name":"CLT-RUNNER-ApenasUmDev",
   "resources":[
     {"id":{"name":"obj_continua","path":"objects/obj_continua/obj_continua.yy",},},
+    {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
     {"id":{"name":"rm_historia_1","path":"rooms/rm_historia_1/rm_historia_1.yy",},},
     {"id":{"name":"rm_historia_2","path":"rooms/rm_historia_2/rm_historia_2.yy",},},
     {"id":{"name":"rm_historia_3","path":"rooms/rm_historia_3/rm_historia_3.yy",},},
+    {"id":{"name":"rm_historia_4","path":"rooms/rm_historia_4/rm_historia_4.yy",},},
     {"id":{"name":"spr_historia_1","path":"sprites/spr_historia_1/spr_historia_1.yy",},},
     {"id":{"name":"spr_historia_2","path":"sprites/spr_historia_2/spr_historia_2.yy",},},
     {"id":{"name":"spr_historia_3","path":"sprites/spr_historia_3/spr_historia_3.yy",},},
@@ -40,6 +42,8 @@
     {"roomId":{"name":"rm_historia_1","path":"rooms/rm_historia_1/rm_historia_1.yy",},},
     {"roomId":{"name":"rm_historia_2","path":"rooms/rm_historia_2/rm_historia_2.yy",},},
     {"roomId":{"name":"rm_historia_3","path":"rooms/rm_historia_3/rm_historia_3.yy",},},
+    {"roomId":{"name":"rm_historia_4","path":"rooms/rm_historia_4/rm_historia_4.yy",},},
+    {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
