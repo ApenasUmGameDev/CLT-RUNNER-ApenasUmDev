@@ -25,7 +25,6 @@
   },
   "name":"CLT-RUNNER-ApenasUmDev",
   "resources":[
-    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_continua","path":"objects/obj_continua/obj_continua.yy",},},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
     {"id":{"name":"rm_historia_1","path":"rooms/rm_historia_1/rm_historia_1.yy",},},
