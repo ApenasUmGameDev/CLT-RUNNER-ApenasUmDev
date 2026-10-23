@@ -1,4 +1,4 @@
-vspeed = 1
+vspeed = global.vel
 
 randomise()
 vspeed += 0.1
