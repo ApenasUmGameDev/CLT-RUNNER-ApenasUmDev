@@ -10,4 +10,5 @@ if(place_meeting(x, y, obj_player))
 {
 	instance_destroy();
 	global.vida --;
+	audio_play_sound(snd_dano, 2, 0)
 }
