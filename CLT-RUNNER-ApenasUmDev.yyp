@@ -26,6 +26,7 @@
   "name":"CLT-RUNNER-ApenasUmDev",
   "resources":[
     {"id":{"name":"obj_continua","path":"objects/obj_continua/obj_continua.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
     {"id":{"name":"rm_historia_1","path":"rooms/rm_historia_1/rm_historia_1.yy",},},
     {"id":{"name":"rm_historia_2","path":"rooms/rm_historia_2/rm_historia_2.yy",},},
@@ -36,6 +37,7 @@
     {"id":{"name":"spr_historia_2","path":"sprites/spr_historia_2/spr_historia_2.yy",},},
     {"id":{"name":"spr_historia_3","path":"sprites/spr_historia_3/spr_historia_3.yy",},},
     {"id":{"name":"spr_historia_4","path":"sprites/spr_historia_4/spr_historia_4.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_space","path":"sprites/spr_space/spr_space.yy",},},
   ],
   "resourceType":"GMProject",
