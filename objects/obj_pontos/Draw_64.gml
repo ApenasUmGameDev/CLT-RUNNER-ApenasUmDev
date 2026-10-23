@@ -1,0 +1,5 @@
+draw_set_font(fnt_comic_sans)
+draw_text(x , y, "Pontos:" + string(global.pontos))
+draw_set_font(-1)
+draw_set_halign(-1)
+draw_set_valign(-1)

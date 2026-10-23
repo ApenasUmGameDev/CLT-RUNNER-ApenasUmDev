@@ -1,0 +1,13 @@
+if( x == 180)
+{
+	image_xscale = -1
+}
+else
+{
+	image_xscale = 1
+}
+if(place_meeting(x, y, obj_player))
+{
+	instance_destroy();
+	global.vida --;
+}
